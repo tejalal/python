@@ -6,4 +6,5 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
 - What is Python ?
 - Getting started with Python (Installation)
 - Creating first "Hello World" program
-- [blue_text](google.com)
+- [blue_text](url)
+
