@@ -4,7 +4,7 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
 
 ## Contents
 - [Getting started with Python (Installation)](https://github.com/tejalal/python/wiki/Getting-started-with-Python)
-- [Introduction to Jupyter Notebook]()
+- [Introduction to Jupyter Notebook](https://github.com/tejalal/python/wiki/Introduction-to-Jupyter-Notebook)
 - [Create and run Python programs without Jupyter Notebook](url)
 - [Creating first "Hello World" program](url)
 - [Understanding Variables, Constants, Taking Input](url)
