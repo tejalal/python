@@ -14,6 +14,9 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
   - Cell types (Code, Markdown)
 - [Creating first "Hello World" program](https://github.com/tejalal/python/blob/master/notebooks/HelloWorld.ipynb)
 - [Variables, Constants, Input & Type casting](https://github.com/tejalal/python/blob/master/notebooks/Constants%20Variables%20Input%20and%20Type%20Casting.ipynb)
+  - Keypoints about Variables and Constants
+  - How to take input from the user
+  - Type conversion/casting
 - [Operators: 
     Arithmetic (+, - *, / and %(Modulus Operator)),
     Relational (<, >, <=, >=, !=),
