@@ -4,6 +4,10 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
 
 ## Contents
 - [Getting started with Python (Installation)](https://github.com/tejalal/python/wiki/Getting-started-with-Python)
+  - Covers Instalaion of Python on Windows and Linux (Ubuntu) OS using Anaconda
+  - Checking installed libraries using pip and conda
+  - How to install other libraries
+  - 
 - [Introduction to Jupyter Notebook](https://github.com/tejalal/python/wiki/Introduction-to-Jupyter-Notebook)
 - [Creating first "Hello World" program](https://github.com/tejalal/python/blob/master/notebooks/HelloWorld.ipynb)
 - [Variables, Constants, Input & Type casting](https://github.com/tejalal/python/blob/master/notebooks/Constants%20Variables%20Input%20and%20Type%20Casting.ipynb)
