@@ -8,6 +8,7 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
 - [Creating first "Hello World" program](https://github.com/tejalal/python/blob/master/notebooks/HelloWorld.ipynb)
 - [Variables, Constants, Input & Type casting](https://github.com/tejalal/python/blob/master/notebooks/Constants%20Variables%20Input%20and%20Type%20Casting.ipynb)
 - [Operators](url)
+- [Commonly used functions and modules](https://github.com/tejalal/python/blob/master/notebooks/Commonly%20used%20functions%20and%20modules.ipynb)
 - Control Statements
   - [Selection/Decision (if-else)](url)
   - [Looping (for loop, while loop)](url)
