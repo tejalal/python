@@ -10,7 +10,7 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
 - [Operators](https://github.com/tejalal/python/blob/master/notebooks/Operators.ipynb)
 - [Commonly used functions and modules](https://github.com/tejalal/python/blob/master/notebooks/Commonly%20used%20functions%20and%20modules.ipynb)
 - Control Statements
-  - [Selection/Decision (if-else)](url)
+  - [Selection/Decision (if-else)](https://github.com/tejalal/python/blob/master/notebooks/If-else.ipynb)
   - [Looping (for loop, while loop)](url)
   - [break and continue in loops](url)
 - [Workig with Strings](url)
