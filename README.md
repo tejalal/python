@@ -13,7 +13,7 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
   - Points to remember about Jupyter Notebook
   - Cell types (Code, Markdown)
 - ### [Creating first "Hello World" program](https://github.com/tejalal/python/blob/master/notebooks/HelloWorld.ipynb)
-- [Variables, Constants, Input & Type casting](https://github.com/tejalal/python/blob/master/notebooks/Constants%20Variables%20Input%20and%20Type%20Casting.ipynb)
+- ### [Variables, Constants, Input & Type casting](https://github.com/tejalal/python/blob/master/notebooks/Constants%20Variables%20Input%20and%20Type%20Casting.ipynb)
   - Keypoints about Variables and Constants
   - How to take input from the user
   - Type conversion/casting
@@ -35,7 +35,7 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
   - Evaluate expression using eval() function, abs(), round() ) 
   - String unpacking
 - ### Control Statements
-  - ###[Selection/Decision (if-else)](https://github.com/tejalal/python/blob/master/notebooks/If-else.ipynb)
+  - ### [Selection/Decision (if-else)](https://github.com/tejalal/python/blob/master/notebooks/If-else.ipynb)
   - [Looping (for loop, while loop)](url)
   - [break and continue in loops](url)
 - [Workig with Strings](url)
