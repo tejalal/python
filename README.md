@@ -3,11 +3,11 @@
 Welcome to the python basics tutorial. Here you will learn everything from basic to advanced topics of the Python language.
 
 ## Contents
-- ## [Getting started with Python (Installation)](https://github.com/tejalal/python/wiki/Getting-started-with-Python)
+- ### [Getting started with Python (Installation)](https://github.com/tejalal/python/wiki/Getting-started-with-Python)
   - Covers Installtion of Python on Windows and Linux (Ubuntu) OS using Anaconda
   - Checking installed libraries using pip freeze and conda list
   - How to install other libraries
-- ## [Introduction to Jupyter Notebook](https://github.com/tejalal/python/wiki/Introduction-to-Jupyter-Notebook)
+- ### [Introduction to Jupyter Notebook](https://github.com/tejalal/python/wiki/Introduction-to-Jupyter-Notebook)
   - How to open Jupyter Notebook
   - Creating a new Notebook file
   - Points to remember about Jupyter Notebook
@@ -17,7 +17,7 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
   - Keypoints about Variables and Constants
   - How to take input from the user
   - Type conversion/casting
-- [Operators](https://github.com/tejalal/python/blob/master/notebooks/Operators.ipynb)
+- ### [Operators](https://github.com/tejalal/python/blob/master/notebooks/Operators.ipynb)
   - Arithmetic (+, - *, / and %(Modulus Operator)),
   - Relational (<, >, <=, >=, !=),
   - Comparision (==),
@@ -26,7 +26,7 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
   - Logical (&&, |),
   - Shift (<<, >>),
   - IN and NOT IN
-- [Commonly used functions and modules](https://github.com/tejalal/python/blob/master/notebooks/Commonly%20used%20functions%20and%20modules.ipynb)
+- ### [Commonly used functions and modules](https://github.com/tejalal/python/blob/master/notebooks/Commonly%20used%20functions%20and%20modules.ipynb)
   - How to format output using format() function 
   - How to use Math class (sqrt(), floor(), ceil)
   - How to generate random numbers using Random class 
@@ -34,8 +34,8 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
   - using calendar class, 
   - Evaluate expression using eval() function, abs(), round() ) 
   - String unpacking
-- Control Statements
-  - [Selection/Decision (if-else)](https://github.com/tejalal/python/blob/master/notebooks/If-else.ipynb)
+- ### Control Statements
+  - ###[Selection/Decision (if-else)](https://github.com/tejalal/python/blob/master/notebooks/If-else.ipynb)
   - [Looping (for loop, while loop)](url)
   - [break and continue in loops](url)
 - [Workig with Strings](url)
