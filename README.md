@@ -26,7 +26,14 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
   - Logical (&&, |),
   - Shift (<<, >>),
   - IN and NOT IN
-- [Commonly used functions and modules (format(), math, random, datetime, calendar, eval(), string unpacking, abs(), floor(), ceil(), round() )](https://github.com/tejalal/python/blob/master/notebooks/Commonly%20used%20functions%20and%20modules.ipynb)
+- [Commonly used functions and modules](https://github.com/tejalal/python/blob/master/notebooks/Commonly%20used%20functions%20and%20modules.ipynb)
+  - How to format output using format() function 
+  - How to use Math class (sqrt(), floor(), ceil)
+  - How to generate random numbers using Random class 
+  - Using datetime class 
+  - using calendar class, 
+  - Evaluate expression using eval() function, abs(), round() ) 
+  - String unpacking
 - Control Statements
   - [Selection/Decision (if-else)](https://github.com/tejalal/python/blob/master/notebooks/If-else.ipynb)
   - [Looping (for loop, while loop)](url)
