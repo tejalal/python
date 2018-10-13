@@ -8,7 +8,7 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
 - [Creating first "Hello World" program](https://github.com/tejalal/python/blob/master/notebooks/HelloWorld.ipynb)
 - [Variables, Constants, Input & Type casting](https://github.com/tejalal/python/blob/master/notebooks/Constants%20Variables%20Input%20and%20Type%20Casting.ipynb)
 - [Operators: 
-    - Arithmetic (+, - *, / and %(Modulus Operator)),
+    Arithmetic (+, - *, / and %(Modulus Operator)),
     Relational (<, >, <=, >=, !=),
     Comparision (==),
     Asignment (=),
