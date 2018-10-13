@@ -4,8 +4,8 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
 
 ## Contents
 - [Getting started with Python (Installation)](https://github.com/tejalal/python/wiki/Getting-started-with-Python)
-  - Covers Instalaion of Python on Windows and Linux (Ubuntu) OS using Anaconda
-  - Checking installed libraries using pip and conda
+  - Covers Installtion of Python on Windows and Linux (Ubuntu) OS using Anaconda
+  - Checking installed libraries using pip freeze and conda list
   - How to install other libraries
   - 
 - [Introduction to Jupyter Notebook](https://github.com/tejalal/python/wiki/Introduction-to-Jupyter-Notebook)
