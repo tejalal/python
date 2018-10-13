@@ -5,9 +5,8 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
 ## Contents
 - [Getting started with Python (Installation)](https://github.com/tejalal/python/wiki/Getting-started-with-Python)
 - [Introduction to Jupyter Notebook](https://github.com/tejalal/python/wiki/Introduction-to-Jupyter-Notebook)
-- [Create and run Python programs without Jupyter Notebook](url)
 - [Creating first "Hello World" program](https://github.com/tejalal/python/blob/master/notebooks/HelloWorld.ipynb)
-- [Understanding Variables, Constants, Taking Input](url)
+- [Variables, Constants, Input & Type casting](https://github.com/tejalal/python/blob/master/notebooks/Constants%20Variables%20Input%20and%20Type%20Casting.ipynb)
 - [Operators](url)
 - Control Statements
   - [Selection/Decision (if-else)](url)
