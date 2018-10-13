@@ -36,15 +36,14 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
   - String unpacking
 - ### Control Statements
   - ### [Selection/Decision (if-else)](https://github.com/tejalal/python/blob/master/notebooks/If-else.ipynb)
-  - [Looping (for loop, while loop)](url)
-  - [break and continue in loops](url)
-- [Workig with Strings](url)
-- Functions
-  - [Bult-in functions](url)
-  - [Use-Defned functions](url)
-- Sequences
-  - [More on Strings](url)
-  - [List](url)
-  - [Tuple](url)
-- [Dictionary](url)
-fhfh
+  - ### [Looping (for loop, while loop)](url)
+  - ### [break and continue in loops](url)
+- ### [Workig with Strings](url)
+- ### Functions
+  - ### [Bult-in functions](url)
+  - ### [Use-Defned functions](url)
+- ### Sequences
+  - ### [More on Strings](url)
+  - ### [List](url)
+  - ### [Tuple](url)
+- ### [Dictionary](url)
