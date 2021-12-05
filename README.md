@@ -22,9 +22,6 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
   - ### [Selection/Decision (if-else)](https://github.com/tejalal/python/blob/master/notebooks/If-else.ipynb)
   - ### [Loops (for, while), break, continue](https://github.com/tejalal/python/blob/master/notebooks/Loops%20(for%2C%20while)%2C%20break%2C%20continiue.ipynb)
 - ### [Workig with Strings](https://github.com/tejalal/python/blob/master/notebooks/Sequences%2C%20Strings.ipynb)
-- ### [Functions](url)
-- ### Sequences
-  - ### [More on Strings](url)
-  - ### [List](url)
-  - ### [Tuple](url)
-- ### [Dictionary](url)
+- ### [Functions](https://github.com/tejalal/python/blob/master/notebooks/Functions.ipynb)
+- ### [List and Tuple](https://github.com/tejalal/python/blob/master/notebooks/Lists%20and%20Tuples.ipynb)
+- ### [Dictionary and Set](https://github.com/tejalal/python/blob/master/notebooks/Dictionary_Set.ipynb)
