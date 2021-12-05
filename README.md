@@ -8,8 +8,7 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
   - Checking installed libraries using pip freeze and conda list
   - How to install other libraries
 - ### [Introduction to Jupyter Notebook](https://github.com/tejalal/python/wiki/Introduction-to-Jupyter-Notebook)
-  - How to open Jupyter Notebook
-  - Creating a new Notebook file
+  - How to open Jupyter Notebook, Creating a new Notebook file
   - Points to remember about Jupyter Notebook
   - Cell types (Code, Markdown)
 - ### [Creating first "Hello World" program](https://github.com/tejalal/python/blob/master/notebooks/HelloWorld.ipynb)
