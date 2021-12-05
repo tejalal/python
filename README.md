@@ -21,7 +21,7 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
 - ### Control Statements
   - ### [Selection/Decision (if-else)](https://github.com/tejalal/python/blob/master/notebooks/If-else.ipynb)
   - ### [Loops (for, while), break, continue](https://github.com/tejalal/python/blob/master/notebooks/Loops%20(for%2C%20while)%2C%20break%2C%20continiue.ipynb)
-- ### [Workig with Strings](url)
+- ### [Workig with Strings](https://github.com/tejalal/python/blob/master/notebooks/Sequences%2C%20Strings.ipynb)
 - ### Functions
   - ### [Bult-in functions](url)
   - ### [Use-Defned functions](url)
