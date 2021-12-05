@@ -15,8 +15,7 @@ Welcome to the python basics tutorial. Here you will learn everything from basic
   - How to format output using format() function 
   - How to use Math class (sqrt(), floor(), ceil)
   - How to generate random numbers using Random class 
-  - Using datetime class 
-  - using calendar class, 
+  - Using datetime class, calendar class, 
   - Evaluate expression using eval() function, abs(), round() ) 
   - String unpacking
 - ### Control Statements
